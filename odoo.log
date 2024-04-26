@@ -1,0 +1,1146 @@
+2024-04-25 10:56:49,033 12652 INFO ? odoo: Odoo version 15.0-20240425 
+2024-04-25 10:56:49,033 12652 INFO ? odoo: Using configuration file at C:\Program Files\Odoo 15.0.20240425\server\odoo.conf 
+2024-04-25 10:56:49,033 12652 INFO ? odoo: addons paths: ['C:\\Program Files\\Odoo 15.0.20240425\\server\\odoo\\addons', 'c:\\users\\admin\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\program files\\odoo 15.0.20240425\\server\\odoo\\addons'] 
+2024-04-25 10:56:49,033 12652 INFO ? odoo: database: lannguyen@localhost:5432 
+2024-04-25 10:56:51,033 12652 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\Odoo 15.0.20240425\thirdparty\wkhtmltopdf.exe 
+2024-04-25 10:56:53,961 12652 INFO ? odoo.service.server: Initiating shutdown 
+2024-04-25 10:56:53,961 12652 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-04-25 10:56:56,088 2240 INFO ? odoo: Odoo version 15.0-20240425 
+2024-04-25 10:56:56,088 2240 INFO ? odoo: Using configuration file at C:\Program Files\Odoo 15.0.20240425\server\odoo.conf 
+2024-04-25 10:56:56,088 2240 INFO ? odoo: addons paths: ['C:\\Program Files\\Odoo 15.0.20240425\\server\\odoo\\addons', 'c:\\users\\admin\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\program files\\odoo 15.0.20240425\\server\\odoo\\addons'] 
+2024-04-25 10:56:56,088 2240 INFO ? odoo: database: lannguyen@localhost:5432 
+2024-04-25 10:56:56,229 2240 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\Odoo 15.0.20240425\thirdparty\wkhtmltopdf.exe 
+2024-04-25 10:56:56,466 2240 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-EUSE31K:8069 
+2024-04-25 10:56:58,593 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 10:57:00,671 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:32,673 2240 INFO ? odoo.http: HTTP Configuring static files 
+2024-04-25 11:03:34,760 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:34,763 2240 INFO ? odoo.http: Generating nondb routing 
+2024-04-25 11:03:34,776 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:34] "GET / HTTP/1.1" 303 - 0 0.000 2.087
+2024-04-25 11:03:37,145 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:39,212 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:39,217 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:39] "GET /web HTTP/1.1" 303 - 0 0.000 4.126
+2024-04-25 11:03:41,277 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:43,964 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:03:44,034 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 4.810
+2024-04-25 11:03:44,398 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,398 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,403 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/index.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,412 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/util.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,412 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/popper/popper.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,441 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,732 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/alert.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,733 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/button.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,736 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/carousel.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,746 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/collapse.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,753 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:44,777 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:44] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,066 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/lib/bootstrap/js/popover.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,068 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,078 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/lib/bootstrap/js/scrollspy.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,093 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/lib/bootstrap/js/tab.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,093 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,100 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/img/logo2.png HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,569 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - - - -
+2024-04-25 11:03:45,839 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:03:45] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - - - -
+2024-04-25 11:07:39,163 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:07:41,894 2240 INFO None odoo.service.db: Create database `lannguyen.odoo`. 
+2024-04-25 11:07:43,946 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:07:43,946 2240 ERROR None odoo.http: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+ 
+Traceback (most recent call last):
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-16>", line 2, in exp_create_database
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 742, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn, serialized=serialized)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 603, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 671, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20240425\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+
+2024-04-25 11:07:46,714 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:07:46,729 2240 INFO None werkzeug: 127.0.0.1 - - [25/Apr/2024 11:07:46] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 9.647
+2024-04-25 11:08:36,641 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:08:37,907 2240 INFO None odoo.service.db: Create database `lannguyen.odoo`. 
+2024-04-25 11:08:39,967 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:08:39,967 2240 ERROR None odoo.http: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+ 
+Traceback (most recent call last):
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-16>", line 2, in exp_create_database
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 742, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn, serialized=serialized)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 603, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 671, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20240425\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+
+2024-04-25 11:08:42,641 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:08:42,669 2240 INFO None werkzeug: 127.0.0.1 - - [25/Apr/2024 11:08:42] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 8.080
+2024-04-25 11:10:08,020 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:10,702 2240 INFO None odoo.service.db: Create database `lannguyen.odoo`. 
+2024-04-25 11:10:12,775 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:12,775 2240 ERROR None odoo.http: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+ 
+Traceback (most recent call last):
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-16>", line 2, in exp_create_database
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 742, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn, serialized=serialized)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 603, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 671, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20240425\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+
+2024-04-25 11:10:16,139 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:16,172 2240 INFO None werkzeug: 127.0.0.1 - - [25/Apr/2024 11:10:16] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 10.217
+2024-04-25 11:10:36,170 2240 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:38,928 2240 INFO None odoo.service.db: Create database `lannguyen.odoo`. 
+2024-04-25 11:10:41,019 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:41,019 2240 ERROR None odoo.http: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+ 
+Traceback (most recent call last):
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-16>", line 2, in exp_create_database
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 742, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn, serialized=serialized)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 603, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\Program Files\Odoo 15.0.20240425\server\odoo\sql_db.py", line 671, in borrow
+    **connection_info)
+  File "C:\Program Files\Odoo 15.0.20240425\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+FATAL:  password authentication failed for user "lannguyen"
+FATAL:  password authentication failed for user "lannguyen"
+
+2024-04-25 11:10:44,416 2240 INFO None odoo.sql_db: Connection to the database failed 
+2024-04-25 11:10:44,447 2240 INFO None werkzeug: 127.0.0.1 - - [25/Apr/2024 11:10:44] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 10.374
+2024-04-25 11:15:01,439 2240 INFO None odoo.service.db: Create database `lannguyen.odoo`. 
+2024-04-25 11:15:10,340 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-25 11:15:10,340 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module base (1/1) 
+2024-04-25 11:15:10,474 2240 INFO lannguyen.odoo odoo.modules.registry: module base: creating or updating database tables 
+2024-04-25 11:15:13,273 2240 INFO lannguyen.odoo odoo.models: Storing computed values of ir.module.module.menus_by_module 
+2024-04-25 11:15:13,273 2240 INFO lannguyen.odoo odoo.models: Storing computed values of ir.module.module.reports_by_module 
+2024-04-25 11:15:13,273 2240 INFO lannguyen.odoo odoo.models: Storing computed values of ir.module.module.views_by_module 
+2024-04-25 11:15:13,282 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.display_name 
+2024-04-25 11:15:13,282 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.partner_share 
+2024-04-25 11:15:13,282 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.commercial_partner_id 
+2024-04-25 11:15:13,282 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.commercial_company_name 
+2024-04-25 11:15:13,288 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.currency.decimal_places 
+2024-04-25 11:15:13,289 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.company.logo_web 
+2024-04-25 11:15:13,289 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.company.company_registry 
+2024-04-25 11:15:13,297 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.users.share 
+2024-04-25 11:15:16,524 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_bank.xml 
+2024-04-25 11:15:16,594 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res.lang.csv 
+2024-04-25 11:15:16,737 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-04-25 11:15:16,798 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-04-25 11:15:16,938 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-04-25 11:15:18,012 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-04-25 11:15:18,044 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-04-25 11:15:20,887 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-04-25 11:15:20,916 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-04-25 11:15:22,064 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-04-25 11:15:22,105 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2024-04-25 11:15:22,128 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/security/base_groups.xml 
+2024-04-25 11:15:22,821 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/security/base_security.xml 
+2024-04-25 11:15:23,324 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/base_menus.xml 
+2024-04-25 11:15:23,624 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-04-25 11:15:23,680 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-04-25 11:15:23,705 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-04-25 11:15:25,489 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-04-25 11:15:25,823 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-04-25 11:15:25,871 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-04-25 11:15:25,927 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-04-25 11:15:26,006 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-04-25 11:15:26,070 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-04-25 11:15:26,130 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-04-25 11:15:26,203 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-04-25 11:15:26,580 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-04-25 11:15:26,638 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-04-25 11:15:26,705 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-04-25 11:15:26,765 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_translation_views.xml 
+2024-04-25 11:15:26,837 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-04-25 11:15:26,889 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-04-25 11:15:27,020 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-04-25 11:15:27,066 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-04-25 11:15:27,089 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-04-25 11:15:27,110 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-04-25 11:15:27,175 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-04-25 11:15:27,214 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-04-25 11:15:27,236 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-04-25 11:15:27,481 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-04-25 11:15:27,655 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-04-25 11:15:27,803 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-04-25 11:15:27,819 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-04-25 11:15:27,833 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-04-25 11:15:27,866 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-04-25 11:15:27,887 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-04-25 11:15:27,921 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-04-25 11:15:27,962 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-04-25 11:15:27,979 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-04-25 11:15:28,019 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_update_translations_views.xml 
+2024-04-25 11:15:28,051 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-04-25 11:15:28,146 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2024-04-25 11:15:28,166 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-04-25 11:15:28,203 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-04-25 11:15:28,264 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-04-25 11:15:28,329 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-04-25 11:15:28,389 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-04-25 11:15:28,755 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-04-25 11:15:28,806 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-04-25 11:15:28,885 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-04-25 11:15:28,949 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-04-25 11:15:29,288 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-04-25 11:15:29,360 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-04-25 11:15:29,388 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-04-25 11:15:29,473 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/views/onboarding_views.xml 
+2024-04-25 11:15:29,554 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-04-25 11:15:30,037 2240 INFO lannguyen.odoo odoo.modules.loading: Module base: loading demo 
+2024-04-25 11:15:30,037 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_company_demo.xml 
+2024-04-25 11:15:30,086 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_users_demo.xml 
+2024-04-25 11:15:33,102 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2024-04-25 11:15:33,121 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2024-04-25 11:15:33,851 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2024-04-25 11:15:33,859 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2024-04-25 11:15:34,371 2240 INFO lannguyen.odoo odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2024-04-25 11:15:35,620 2240 INFO lannguyen.odoo odoo.modules.loading: Module base loaded in 25.28s, 11006 queries 
+2024-04-25 11:15:35,620 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 25.28s, 11006 queries (+0 extra) 
+2024-04-25 11:15:35,706 2240 INFO lannguyen.odoo odoo.modules.loading: updating modules list 
+2024-04-25 11:15:35,706 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 127.0.0.1 
+2024-04-25 11:15:37,535 2240 INFO lannguyen.odoo odoo.modules.loading: loading 7 modules... 
+2024-04-25 11:15:37,535 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module web (2/7) 
+2024-04-25 11:15:37,604 2240 INFO lannguyen.odoo odoo.modules.registry: module web: creating or updating database tables 
+2024-04-25 11:15:38,559 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-04-25 11:15:38,585 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-04-25 11:15:38,752 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/views/report_templates.xml 
+2024-04-25 11:15:39,068 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-04-25 11:15:39,102 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-04-25 11:15:39,122 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/views/lazy_assets.xml 
+2024-04-25 11:15:39,149 2240 INFO lannguyen.odoo odoo.modules.loading: loading web/data/report_layout.xml 
+2024-04-25 11:15:39,202 2240 INFO lannguyen.odoo odoo.modules.loading: Module web: loading demo 
+2024-04-25 11:15:39,229 2240 INFO lannguyen.odoo odoo.modules.loading: Module web loaded in 1.69s, 888 queries 
+2024-04-25 11:15:39,229 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module auth_totp (3/7) 
+2024-04-25 11:15:39,622 2240 INFO lannguyen.odoo odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-04-25 11:15:39,831 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-04-25 11:15:39,946 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-04-25 11:15:39,976 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-04-25 11:15:40,009 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-04-25 11:15:40,120 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-04-25 11:15:40,151 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-04-25 11:15:40,221 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp: loading demo 
+2024-04-25 11:15:40,264 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp loaded in 1.04s, 192 queries 
+2024-04-25 11:15:40,264 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module base_import (4/7) 
+2024-04-25 11:15:40,503 2240 INFO lannguyen.odoo odoo.modules.registry: module base_import: creating or updating database tables 
+2024-04-25 11:15:42,386 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-04-25 11:15:42,434 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_import: loading demo 
+2024-04-25 11:15:42,463 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_import loaded in 2.20s, 922 queries 
+2024-04-25 11:15:42,463 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module web_editor (5/7) 
+2024-04-25 11:15:42,986 2240 INFO lannguyen.odoo odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-04-25 11:15:43,253 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-04-25 11:15:43,276 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-04-25 11:15:43,287 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-04-25 11:15:43,404 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-04-25 11:15:43,580 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_editor: loading demo 
+2024-04-25 11:15:43,613 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_editor loaded in 1.15s, 246 queries 
+2024-04-25 11:15:43,613 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module web_kanban_gauge (6/7) 
+2024-04-25 11:15:43,694 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_kanban_gauge: loading demo 
+2024-04-25 11:15:43,719 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_kanban_gauge loaded in 0.11s, 20 queries 
+2024-04-25 11:15:43,719 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module web_tour (7/7) 
+2024-04-25 11:15:43,841 2240 INFO lannguyen.odoo odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-04-25 11:15:43,920 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-04-25 11:15:43,953 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-04-25 11:15:43,986 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-04-25 11:15:44,045 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_tour: loading demo 
+2024-04-25 11:15:44,081 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_tour loaded in 0.36s, 118 queries 
+2024-04-25 11:15:44,084 2240 INFO lannguyen.odoo odoo.modules.loading: 7 modules loaded in 6.55s, 2386 queries (+0 extra) 
+2024-04-25 11:15:44,452 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-25 11:15:44,462 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 34.165s 
+2024-04-25 11:15:47,461 2240 INFO lannguyen.odoo odoo.addons.base.models.res_users: Login successful for db:lannguyen.odoo login:lannguyen.41903@gmail.com from 127.0.0.1 
+2024-04-25 11:15:47,493 2240 INFO lannguyen.odoo odoo.modules.registry: Registry changed, signaling through the database 
+2024-04-25 11:15:49,612 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:15:49] "POST /web/database/create HTTP/1.1" 303 - 18075 23.116 29.685
+2024-04-25 11:15:49,955 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-25 11:16:24,352 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:24] "GET /web HTTP/1.1" 200 - 177 0.339 34.082
+2024-04-25 11:16:33,055 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/webclient/load_menus/1f5717edb4e7bec8acddc90b224f148fb9c759c1c5c867ed74b93ffc796e8f1b HTTP/1.1" 200 - 1 0.004 8.322
+2024-04-25 11:16:33,069 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/assets/188-d6bb39f/web.assets_common.min.css HTTP/1.1" 200 - 2 0.013 8.337
+2024-04-25 11:16:33,122 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/webclient/translations/5227498d9df4b403b0244c75aac21e0c091e50ce?lang=en_US HTTP/1.1" 200 - 5 0.072 8.320
+2024-04-25 11:16:33,137 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/assets/189-99e8264/web.assets_backend.min.css HTTP/1.1" 200 - 2 0.004 8.414
+2024-04-25 11:16:33,329 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/webclient/qweb/96cb99f5c3ea48fded6cd230751d16fa40b83ef46a50731b739f65a2e159bc9c?bundle=web.assets_qweb HTTP/1.1" 200 - 2 0.012 8.581
+2024-04-25 11:16:33,466 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/assets/190-d6bb39f/web.assets_common.min.js HTTP/1.1" 200 - 2 0.015 8.724
+2024-04-25 11:16:33,562 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/assets/192-14e93db/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 2 0.002 0.031
+2024-04-25 11:16:33,869 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:33] "GET /web/assets/191-99e8264/web.assets_backend.min.js HTTP/1.1" 200 - 2 0.008 0.358
+2024-04-25 11:16:34,704 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:16:34] "GET /web/webclient/locale/en_US HTTP/1.1" 200 - 1 0.003 0.005
+2024-04-25 11:17:09,553 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:09] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 11 0.016 0.030
+2024-04-25 11:17:09,568 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:09] "POST /web/action/load HTTP/1.1" 200 - 28 0.047 0.014
+2024-04-25 11:17:09,790 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:09] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 58 0.093 0.048
+2024-04-25 11:17:09,811 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:09] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 17 0.025 0.012
+2024-04-25 11:17:10,007 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 42 0.062 0.038
+2024-04-25 11:17:10,157 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.000 0.017
+2024-04-25 11:17:10,359 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,575 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,575 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /project/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,575 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,581 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,582 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,684 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,913 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,913 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,917 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,921 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /account/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:10,924 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:10] "GET /crm/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,019 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,244 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /website/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,244 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,244 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,244 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /stock/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,256 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,352 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,584 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,584 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /hr/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,584 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,584 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,594 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,685 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,913 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,917 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,920 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,921 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /contacts/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:11,924 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:11] "GET /mail/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,018 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,256 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /fleet/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,256 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /calendar/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,256 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,265 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /website_blog/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,265 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,353 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,599 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /survey/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,599 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,599 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/appointment.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,599 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /board/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,605 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /repair/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,668 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,939 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,940 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,941 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /note/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,944 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /website_forum/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:12,944 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:12] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,020 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,272 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /lunch/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,274 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,278 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,285 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /hr_contract/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,286 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_adyen/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,336 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_alipay/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,600 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_authorize/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,600 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_mollie/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,613 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_ogone/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,614 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_buckaroo/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,617 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_paypal/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,686 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_payulatam/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,945 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_stripe/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,946 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_payumoney/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 11:17:13,948 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 11:17:13] "GET /payment_sips/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 14:34:49,194 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 14:34:49] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 6 0.176 0.321
+2024-04-25 14:34:49,195 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 14:34:49] "POST /web/action/load HTTP/1.1" 200 - 14 0.256 0.255
+2024-04-25 14:34:49,651 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 14:34:49] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 23 0.059 0.076
+2024-04-25 14:34:49,934 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 14:34:49] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 37 0.127 0.028
+2024-04-25 14:34:50,017 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 14:34:50] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.008 0.011
+2024-04-25 18:02:07,000 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:06] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 6 0.045 0.121
+2024-04-25 18:02:07,054 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:07] "POST /web/action/load HTTP/1.1" 200 - 14 0.136 0.111
+2024-04-25 18:02:07,493 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:07] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 23 0.061 0.057
+2024-04-25 18:02:07,745 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:07] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 37 0.103 0.017
+2024-04-25 18:02:07,854 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:07] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.021 0.008
+2024-04-25 18:02:09,187 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_immediate_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:02:09,188 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: User #2 triggered module installation 
+2024-04-25 18:02:09,202 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:02:10,029 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-25 18:02:10,069 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 0.04s, 0 queries (+0 extra) 
+2024-04-25 18:02:10,160 2240 INFO lannguyen.odoo odoo.modules.loading: updating modules list 
+2024-04-25 18:02:10,163 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 127.0.0.1 
+2024-04-25 18:02:12,505 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:02:12] "GET /web/static/img/spin.png HTTP/1.1" 200 - - - -
+2024-04-25 18:02:15,169 2240 INFO lannguyen.odoo odoo.modules.loading: loading 7 modules... 
+2024-04-25 18:02:15,194 2240 INFO lannguyen.odoo odoo.modules.loading: 7 modules loaded in 0.02s, 0 queries (+0 extra) 
+2024-04-25 18:02:15,215 2240 INFO lannguyen.odoo odoo.modules.loading: loading 40 modules... 
+2024-04-25 18:02:15,215 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module uom (2/40) 
+2024-04-25 18:02:15,352 2240 INFO lannguyen.odoo odoo.modules.registry: module uom: creating or updating database tables 
+2024-04-25 18:02:15,936 2240 INFO lannguyen.odoo odoo.modules.loading: loading uom/data/uom_data.xml 
+2024-04-25 18:02:16,131 2240 INFO lannguyen.odoo odoo.modules.loading: loading uom/security/uom_security.xml 
+2024-04-25 18:02:16,169 2240 INFO lannguyen.odoo odoo.modules.loading: loading uom/security/ir.model.access.csv 
+2024-04-25 18:02:16,212 2240 INFO lannguyen.odoo odoo.modules.loading: loading uom/views/uom_uom_views.xml 
+2024-04-25 18:02:16,300 2240 INFO lannguyen.odoo odoo.modules.loading: Module uom: loading demo 
+2024-04-25 18:02:16,341 2240 INFO lannguyen.odoo odoo.modules.loading: Module uom loaded in 1.13s, 302 queries 
+2024-04-25 18:02:16,341 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module base_setup (6/40) 
+2024-04-25 18:02:16,420 2240 INFO lannguyen.odoo odoo.modules.registry: module base_setup: creating or updating database tables 
+2024-04-25 18:02:16,555 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2024-04-25 18:02:16,570 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2024-04-25 18:02:16,657 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2024-04-25 18:02:16,669 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_setup: loading demo 
+2024-04-25 18:02:16,716 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_setup loaded in 0.37s, 171 queries 
+2024-04-25 18:02:16,716 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module bus (7/40) 
+2024-04-25 18:02:16,780 2240 INFO lannguyen.odoo odoo.modules.registry: module bus: creating or updating database tables 
+2024-04-25 18:02:16,881 2240 INFO lannguyen.odoo odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-04-25 18:02:16,901 2240 INFO lannguyen.odoo odoo.modules.loading: Module bus: loading demo 
+2024-04-25 18:02:16,919 2240 INFO lannguyen.odoo odoo.modules.loading: Module bus loaded in 0.20s, 104 queries 
+2024-04-25 18:02:16,919 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module http_routing (8/40) 
+2024-04-25 18:02:16,964 2240 INFO lannguyen.odoo odoo.modules.registry: module http_routing: creating or updating database tables 
+2024-04-25 18:02:17,014 2240 INFO lannguyen.odoo odoo.modules.loading: loading http_routing/views/http_routing_template.xml 
+2024-04-25 18:02:17,135 2240 INFO lannguyen.odoo odoo.modules.loading: loading http_routing/views/res_lang_views.xml 
+2024-04-25 18:02:17,170 2240 INFO lannguyen.odoo odoo.modules.loading: Module http_routing: loading demo 
+2024-04-25 18:02:17,202 2240 INFO lannguyen.odoo odoo.modules.loading: Module http_routing loaded in 0.28s, 106 queries 
+2024-04-25 18:02:17,202 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module resource (9/40) 
+2024-04-25 18:02:18,059 2240 INFO lannguyen.odoo odoo.modules.registry: module resource: creating or updating database tables 
+2024-04-25 18:02:18,552 2240 INFO lannguyen.odoo odoo.modules.loading: loading resource/data/resource_data.xml 
+2024-04-25 18:02:18,667 2240 INFO lannguyen.odoo odoo.modules.loading: loading resource/security/ir.model.access.csv 
+2024-04-25 18:02:18,718 2240 INFO lannguyen.odoo odoo.modules.loading: loading resource/security/resource_security.xml 
+2024-04-25 18:02:18,808 2240 INFO lannguyen.odoo odoo.modules.loading: loading resource/views/resource_views.xml 
+2024-04-25 18:02:18,963 2240 INFO lannguyen.odoo odoo.modules.loading: Module resource: loading demo 
+2024-04-25 18:02:18,987 2240 INFO lannguyen.odoo odoo.modules.loading: Module resource loaded in 1.78s, 516 queries 
+2024-04-25 18:02:18,987 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module utm (10/40) 
+2024-04-25 18:02:19,085 2240 INFO lannguyen.odoo odoo.modules.registry: module utm: creating or updating database tables 
+2024-04-25 18:02:19,390 2240 INFO lannguyen.odoo odoo.modules.loading: loading utm/data/utm_data.xml 
+2024-04-25 18:02:19,467 2240 INFO lannguyen.odoo odoo.modules.loading: loading utm/views/utm_campaign_views.xml 
+2024-04-25 18:02:19,542 2240 INFO lannguyen.odoo odoo.modules.loading: loading utm/views/utm_views.xml 
+2024-04-25 18:02:19,642 2240 INFO lannguyen.odoo odoo.modules.loading: loading utm/security/ir.model.access.csv 
+2024-04-25 18:02:19,669 2240 INFO lannguyen.odoo odoo.modules.loading: Module utm: loading demo 
+2024-04-25 18:02:19,669 2240 INFO lannguyen.odoo odoo.modules.loading: loading utm/data/utm_demo.xml 
+2024-04-25 18:02:19,747 2240 INFO lannguyen.odoo odoo.modules.loading: Module utm loaded in 0.76s, 408 queries 
+2024-04-25 18:02:19,747 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module iap (14/40) 
+2024-04-25 18:02:19,822 2240 INFO lannguyen.odoo odoo.modules.registry: module iap: creating or updating database tables 
+2024-04-25 18:02:19,922 2240 INFO lannguyen.odoo odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2024-04-25 18:02:19,944 2240 INFO lannguyen.odoo odoo.modules.loading: loading iap/security/ir_rule.xml 
+2024-04-25 18:02:19,964 2240 INFO lannguyen.odoo odoo.modules.loading: loading iap/views/iap_views.xml 
+2024-04-25 18:02:20,002 2240 INFO lannguyen.odoo odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2024-04-25 18:02:20,022 2240 INFO lannguyen.odoo odoo.modules.loading: Module iap: loading demo 
+2024-04-25 18:02:20,057 2240 INFO lannguyen.odoo odoo.modules.loading: Module iap loaded in 0.31s, 158 queries 
+2024-04-25 18:02:20,057 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module mail (15/40) 
+2024-04-25 18:02:21,213 2240 INFO lannguyen.odoo odoo.modules.registry: module mail: creating or updating database tables 
+2024-04-25 18:02:23,193 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.email_normalized 
+2024-04-25 18:02:24,711 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_groups.xml 
+2024-04-25 18:02:25,262 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_blacklist_remove_views.xml 
+2024-04-25 18:02:25,283 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_compose_message_views.xml 
+2024-04-25 18:02:25,366 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_resend_cancel_views.xml 
+2024-04-25 18:02:25,400 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_resend_message_views.xml 
+2024-04-25 18:02:25,431 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_template_preview_views.xml 
+2024-04-25 18:02:25,461 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/wizard/mail_wizard_invite_views.xml 
+2024-04-25 18:02:25,487 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_message_subtype_views.xml 
+2024-04-25 18:02:25,516 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_tracking_views.xml 
+2024-04-25 18:02:25,545 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_notification_views.xml 
+2024-04-25 18:02:25,571 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_message_views.xml 
+2024-04-25 18:02:25,698 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_mail_views.xml 
+2024-04-25 18:02:25,761 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_followers_views.xml 
+2024-04-25 18:02:25,792 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_ice_server_views.xml 
+2024-04-25 18:02:25,822 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_channel_partner_views.xml 
+2024-04-25 18:02:25,855 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_channel_rtc_session_views.xml 
+2024-04-25 18:02:25,901 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_channel_views.xml 
+2024-04-25 18:02:25,955 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_shortcode_views.xml 
+2024-04-25 18:02:25,988 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_activity_views.xml 
+2024-04-25 18:02:26,135 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/res_config_settings_views.xml 
+2024-04-25 18:02:26,238 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/res_partner_data.xml 
+2024-04-25 18:02:26,300 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_message_subtype_data.xml 
+2024-04-25 18:02:26,322 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_templates.xml 
+2024-04-25 18:02:26,472 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_channel_data.xml 
+2024-04-25 18:02:26,541 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_activity_data.xml 
+2024-04-25 18:02:26,594 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/ir_cron_data.xml 
+2024-04-25 18:02:26,646 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/security/mail_security.xml 
+2024-04-25 18:02:26,840 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/security/ir.model.access.csv 
+2024-04-25 18:02:26,966 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/discuss_public_templates.xml 
+2024-04-25 18:02:27,019 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_alias_views.xml 
+2024-04-25 18:02:27,067 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_guest_views.xml 
+2024-04-25 18:02:27,091 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_message_reaction_views.xml 
+2024-04-25 18:02:27,119 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/res_users_views.xml 
+2024-04-25 18:02:27,174 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/res_users_settings_views.xml 
+2024-04-25 18:02:27,222 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_template_views.xml 
+2024-04-25 18:02:27,321 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/ir_actions_server_views.xml 
+2024-04-25 18:02:27,350 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/ir_model_views.xml 
+2024-04-25 18:02:27,450 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/res_partner_views.xml 
+2024-04-25 18:02:27,595 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_blacklist_views.xml 
+2024-04-25 18:02:27,635 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/views/mail_menus.xml 
+2024-04-25 18:02:27,935 2240 INFO lannguyen.odoo odoo.modules.loading: Module mail: loading demo 
+2024-04-25 18:02:27,936 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail/data/mail_channel_demo.xml 
+2024-04-25 18:02:28,214 2240 INFO lannguyen.odoo odoo.modules.loading: Module mail loaded in 8.16s, 3410 queries 
+2024-04-25 18:02:28,214 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module web_unsplash (16/40) 
+2024-04-25 18:02:28,544 2240 INFO lannguyen.odoo odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2024-04-25 18:02:28,672 2240 INFO lannguyen.odoo odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2024-04-25 18:02:28,750 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_unsplash: loading demo 
+2024-04-25 18:02:28,811 2240 INFO lannguyen.odoo odoo.modules.loading: Module web_unsplash loaded in 0.60s, 91 queries 
+2024-04-25 18:02:28,811 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module analytic (17/40) 
+2024-04-25 18:02:28,929 2240 INFO lannguyen.odoo odoo.modules.registry: module analytic: creating or updating database tables 
+2024-04-25 18:02:29,493 2240 INFO lannguyen.odoo odoo.modules.loading: loading analytic/security/analytic_security.xml 
+2024-04-25 18:02:29,633 2240 INFO lannguyen.odoo odoo.modules.loading: loading analytic/security/ir.model.access.csv 
+2024-04-25 18:02:29,666 2240 INFO lannguyen.odoo odoo.modules.loading: loading analytic/views/analytic_account_views.xml 
+2024-04-25 18:02:29,876 2240 INFO lannguyen.odoo odoo.modules.loading: Module analytic: loading demo 
+2024-04-25 18:02:29,876 2240 INFO lannguyen.odoo odoo.modules.loading: loading analytic/data/analytic_demo.xml 
+2024-04-25 18:02:29,891 2240 INFO lannguyen.odoo odoo.modules.loading: loading analytic/data/analytic_account_demo.xml 
+2024-04-25 18:02:30,204 2240 INFO lannguyen.odoo odoo.modules.loading: Module analytic loaded in 1.39s, 566 queries 
+2024-04-25 18:02:30,204 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module auth_signup (18/40) 
+2024-04-25 18:02:30,320 2240 INFO lannguyen.odoo odoo.modules.registry: module auth_signup: creating or updating database tables 
+2024-04-25 18:02:30,460 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/data/ir_config_parameter_data.xml 
+2024-04-25 18:02:30,491 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/data/ir_cron_data.xml 
+2024-04-25 18:02:30,511 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/data/mail_template_data.xml 
+2024-04-25 18:02:30,548 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/views/res_config_settings_views.xml 
+2024-04-25 18:02:30,583 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/views/res_users_views.xml 
+2024-04-25 18:02:30,662 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_signup/views/auth_signup_login_templates.xml 
+2024-04-25 18:02:30,724 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_signup: loading demo 
+2024-04-25 18:02:30,763 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_signup loaded in 0.56s, 193 queries 
+2024-04-25 18:02:30,763 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module auth_totp_mail (19/40) 
+2024-04-25 18:02:30,902 2240 INFO lannguyen.odoo odoo.modules.registry: module auth_totp_mail: creating or updating database tables 
+2024-04-25 18:02:30,946 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp_mail/data/ir_action_data.xml 
+2024-04-25 18:02:31,003 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp_mail/data/mail_template_data.xml 
+2024-04-25 18:02:31,024 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp_mail/views/res_users_views.xml 
+2024-04-25 18:02:31,070 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp_mail: loading demo 
+2024-04-25 18:02:31,102 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp_mail loaded in 0.34s, 97 queries 
+2024-04-25 18:02:31,103 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module fetchmail (20/40) 
+2024-04-25 18:02:31,291 2240 INFO lannguyen.odoo odoo.modules.registry: module fetchmail: creating or updating database tables 
+2024-04-25 18:02:31,712 2240 INFO lannguyen.odoo odoo.modules.loading: loading fetchmail/data/fetchmail_data.xml 
+2024-04-25 18:02:31,768 2240 INFO lannguyen.odoo odoo.modules.loading: loading fetchmail/security/ir.model.access.csv 
+2024-04-25 18:02:31,813 2240 INFO lannguyen.odoo odoo.modules.loading: loading fetchmail/views/fetchmail_views.xml 
+2024-04-25 18:02:31,870 2240 INFO lannguyen.odoo odoo.modules.loading: loading fetchmail/views/mail_mail_views.xml 
+2024-04-25 18:02:31,911 2240 INFO lannguyen.odoo odoo.modules.loading: loading fetchmail/views/res_config_settings_views.xml 
+2024-04-25 18:02:31,961 2240 INFO lannguyen.odoo odoo.modules.loading: Module fetchmail: loading demo 
+2024-04-25 18:02:32,007 2240 INFO lannguyen.odoo odoo.modules.loading: Module fetchmail loaded in 0.90s, 189 queries 
+2024-04-25 18:02:32,007 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module iap_mail (21/40) 
+2024-04-25 18:02:32,132 2240 INFO lannguyen.odoo odoo.modules.loading: loading iap_mail/data/mail_templates.xml 
+2024-04-25 18:02:32,218 2240 INFO lannguyen.odoo odoo.modules.loading: Module iap_mail: loading demo 
+2024-04-25 18:02:32,241 2240 INFO lannguyen.odoo odoo.modules.loading: Module iap_mail loaded in 0.23s, 29 queries 
+2024-04-25 18:02:32,241 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module mail_bot (22/40) 
+2024-04-25 18:02:32,452 2240 INFO lannguyen.odoo odoo.modules.registry: module mail_bot: creating or updating database tables 
+2024-04-25 18:02:32,618 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail_bot/views/res_users_views.xml 
+2024-04-25 18:02:32,667 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail_bot/data/mailbot_data.xml 
+2024-04-25 18:02:32,685 2240 INFO lannguyen.odoo odoo.modules.loading: Module mail_bot: loading demo 
+2024-04-25 18:02:32,685 2240 INFO lannguyen.odoo odoo.modules.loading: loading mail_bot/data/mailbot_demo.xml 
+2024-04-25 18:02:32,720 2240 INFO lannguyen.odoo odoo.modules.loading: Module mail_bot loaded in 0.48s, 147 queries 
+2024-04-25 18:02:32,720 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module phone_validation (23/40) 
+2024-04-25 18:02:32,991 2240 INFO lannguyen.odoo odoo.modules.registry: module phone_validation: creating or updating database tables 
+2024-04-25 18:02:33,234 2240 INFO lannguyen.odoo odoo.modules.loading: loading phone_validation/security/ir.model.access.csv 
+2024-04-25 18:02:33,265 2240 INFO lannguyen.odoo odoo.modules.loading: loading phone_validation/views/phone_blacklist_views.xml 
+2024-04-25 18:02:33,337 2240 INFO lannguyen.odoo odoo.modules.loading: loading phone_validation/wizard/phone_blacklist_remove_view.xml 
+2024-04-25 18:02:33,361 2240 INFO lannguyen.odoo odoo.modules.loading: Module phone_validation: loading demo 
+2024-04-25 18:02:33,407 2240 INFO lannguyen.odoo odoo.modules.loading: Module phone_validation loaded in 0.69s, 183 queries 
+2024-04-25 18:02:33,407 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module product (24/40) 
+2024-04-25 18:02:35,029 2240 INFO lannguyen.odoo odoo.modules.registry: module product: creating or updating database tables 
+2024-04-25 18:02:36,639 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/data/product_data.xml 
+2024-04-25 18:02:36,720 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/security/product_security.xml 
+2024-04-25 18:02:36,841 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/security/ir.model.access.csv 
+2024-04-25 18:02:36,903 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/wizard/product_label_layout_views.xml 
+2024-04-25 18:02:36,933 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/res_config_settings_views.xml 
+2024-04-25 18:02:36,991 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/product_attribute_views.xml 
+2024-04-25 18:02:37,071 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/product_views.xml 
+2024-04-25 18:02:37,453 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/product_template_views.xml 
+2024-04-25 18:02:37,553 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/product_pricelist_views.xml 
+2024-04-25 18:02:37,791 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/views/res_partner_views.xml 
+2024-04-25 18:02:37,831 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/report/product_reports.xml 
+2024-04-25 18:02:37,897 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/report/product_product_templates.xml 
+2024-04-25 18:02:37,967 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/report/product_template_templates.xml 
+2024-04-25 18:02:37,991 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/report/product_packaging.xml 
+2024-04-25 18:02:38,014 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/report/product_pricelist_report_templates.xml 
+2024-04-25 18:02:38,084 2240 INFO lannguyen.odoo odoo.modules.loading: Module product: loading demo 
+2024-04-25 18:02:38,084 2240 INFO lannguyen.odoo odoo.modules.loading: loading product/data/product_demo.xml 
+2024-04-25 18:02:39,176 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.message records with IDs: [45] 
+2024-04-25 18:02:39,191 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted ir.property records with IDs: [9] 
+2024-04-25 18:02:39,203 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted product.product records with IDs: [9] 
+2024-04-25 18:02:39,211 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.followers records with IDs: [36] 
+2024-04-25 18:02:39,353 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.message records with IDs: [47, 46] 
+2024-04-25 18:02:39,391 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted product.product records with IDs: [11, 10] 
+2024-04-25 18:02:39,403 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.followers records with IDs: [37, 38] 
+2024-04-25 18:02:40,995 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.message records with IDs: [65] 
+2024-04-25 18:02:41,031 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted ir.property records with IDs: [19] 
+2024-04-25 18:02:41,046 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted product.product records with IDs: [22] 
+2024-04-25 18:02:41,059 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.followers records with IDs: [56] 
+2024-04-25 18:02:42,782 2240 INFO lannguyen.odoo odoo.modules.loading: Module product loaded in 9.37s, 3280 queries 
+2024-04-25 18:02:42,782 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module sales_team (25/40) 
+2024-04-25 18:02:43,002 2240 INFO lannguyen.odoo odoo.modules.registry: module sales_team: creating or updating database tables 
+2024-04-25 18:02:43,210 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.users.sale_team_id 
+2024-04-25 18:02:43,420 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/security/sales_team_security.xml 
+2024-04-25 18:02:43,620 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/security/ir.model.access.csv 
+2024-04-25 18:02:43,691 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/data/crm_team_data.xml 
+2024-04-25 18:02:43,858 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/views/crm_tag_views.xml 
+2024-04-25 18:02:43,916 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/views/crm_team_views.xml 
+2024-04-25 18:02:44,124 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/views/crm_team_member_views.xml 
+2024-04-25 18:02:44,237 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/views/mail_activity_views.xml 
+2024-04-25 18:02:44,253 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/views/res_partner_views.xml 
+2024-04-25 18:02:44,281 2240 INFO lannguyen.odoo odoo.modules.loading: Module sales_team: loading demo 
+2024-04-25 18:02:44,281 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/data/crm_team_demo.xml 
+2024-04-25 18:02:44,373 2240 INFO lannguyen.odoo odoo.modules.loading: loading sales_team/data/crm_tag_demo.xml 
+2024-04-25 18:02:44,491 2240 INFO lannguyen.odoo odoo.modules.loading: Module sales_team loaded in 1.71s, 624 queries 
+2024-04-25 18:02:44,491 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module partner_autocomplete (26/40) 
+2024-04-25 18:02:44,915 2240 INFO lannguyen.odoo odoo.modules.registry: module partner_autocomplete: creating or updating database tables 
+2024-04-25 18:02:45,141 2240 INFO lannguyen.odoo odoo.modules.loading: loading partner_autocomplete/security/ir.model.access.csv 
+2024-04-25 18:02:45,166 2240 INFO lannguyen.odoo odoo.modules.loading: loading partner_autocomplete/views/res_partner_views.xml 
+2024-04-25 18:02:45,221 2240 INFO lannguyen.odoo odoo.modules.loading: loading partner_autocomplete/views/res_company_views.xml 
+2024-04-25 18:02:45,261 2240 INFO lannguyen.odoo odoo.modules.loading: loading partner_autocomplete/views/res_config_settings_views.xml 
+2024-04-25 18:02:45,295 2240 INFO lannguyen.odoo odoo.modules.loading: loading partner_autocomplete/data/cron.xml 
+2024-04-25 18:02:45,324 2240 INFO lannguyen.odoo odoo.modules.loading: Module partner_autocomplete: loading demo 
+2024-04-25 18:02:45,373 2240 INFO lannguyen.odoo odoo.modules.loading: Module partner_autocomplete loaded in 0.88s, 192 queries 
+2024-04-25 18:02:45,373 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module portal (27/40) 
+2024-04-25 18:02:45,762 2240 INFO lannguyen.odoo odoo.modules.registry: module portal: creating or updating database tables 
+2024-04-25 18:02:46,399 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/security/ir.model.access.csv 
+2024-04-25 18:02:46,448 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/data/mail_template_data.xml 
+2024-04-25 18:02:46,481 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/data/mail_templates.xml 
+2024-04-25 18:02:46,511 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/views/portal_templates.xml 
+2024-04-25 18:02:46,926 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/views/res_config_settings_views.xml 
+2024-04-25 18:02:46,961 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/wizard/portal_share_views.xml 
+2024-04-25 18:02:47,001 2240 INFO lannguyen.odoo odoo.modules.loading: loading portal/wizard/portal_wizard_views.xml 
+2024-04-25 18:02:47,041 2240 INFO lannguyen.odoo odoo.modules.loading: Module portal: loading demo 
+2024-04-25 18:02:47,091 2240 INFO lannguyen.odoo odoo.modules.loading: Module portal loaded in 1.72s, 463 queries 
+2024-04-25 18:02:47,091 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module sms (28/40) 
+2024-04-25 18:02:47,517 2240 INFO lannguyen.odoo odoo.modules.registry: module sms: creating or updating database tables 
+2024-04-25 18:02:48,141 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.partner.phone_sanitized 
+2024-04-25 18:02:48,471 2240 INFO lannguyen.odoo odoo.addons.phone_validation.tools.phone_validation: The `phonenumbers` Python module is not installed, contact numbers will not be verified. Please install the `phonenumbers` Python module. 
+2024-04-25 18:02:48,541 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/data/ir_cron_data.xml 
+2024-04-25 18:02:48,565 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/wizard/sms_cancel_views.xml 
+2024-04-25 18:02:48,592 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/wizard/sms_composer_views.xml 
+2024-04-25 18:02:48,666 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/wizard/sms_template_preview_views.xml 
+2024-04-25 18:02:48,692 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/wizard/sms_resend_views.xml 
+2024-04-25 18:02:48,741 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/ir_actions_views.xml 
+2024-04-25 18:02:48,781 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/mail_notification_views.xml 
+2024-04-25 18:02:48,834 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/res_config_settings_views.xml 
+2024-04-25 18:02:48,871 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/res_partner_views.xml 
+2024-04-25 18:02:48,941 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/sms_sms_views.xml 
+2024-04-25 18:02:48,992 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/views/sms_template_views.xml 
+2024-04-25 18:02:49,052 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/security/ir.model.access.csv 
+2024-04-25 18:02:49,119 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/security/sms_security.xml 
+2024-04-25 18:02:49,153 2240 INFO lannguyen.odoo odoo.modules.loading: Module sms: loading demo 
+2024-04-25 18:02:49,154 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/data/sms_demo.xml 
+2024-04-25 18:02:49,171 2240 INFO lannguyen.odoo odoo.modules.loading: loading sms/data/mail_demo.xml 
+2024-04-25 18:02:49,359 2240 INFO lannguyen.odoo odoo.modules.loading: Module sms loaded in 2.27s, 715 queries 
+2024-04-25 18:02:49,359 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module snailmail (29/40) 
+2024-04-25 18:02:49,761 2240 INFO lannguyen.odoo odoo.modules.registry: module snailmail: creating or updating database tables 
+2024-04-25 18:02:50,416 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/data/snailmail_data.xml 
+2024-04-25 18:02:50,444 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/views/report_assets.xml 
+2024-04-25 18:02:50,479 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/views/snailmail_views.xml 
+2024-04-25 18:02:50,599 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/wizard/snailmail_confirm_views.xml 
+2024-04-25 18:02:50,679 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/wizard/snailmail_letter_cancel_views.xml 
+2024-04-25 18:02:50,725 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/wizard/snailmail_letter_format_error_views.xml 
+2024-04-25 18:02:50,755 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/wizard/snailmail_letter_missing_required_fields_views.xml 
+2024-04-25 18:02:50,799 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail/security/ir.model.access.csv 
+2024-04-25 18:02:50,926 2240 INFO lannguyen.odoo odoo.modules.loading: Module snailmail: loading demo 
+2024-04-25 18:02:50,989 2240 INFO lannguyen.odoo odoo.modules.loading: Module snailmail loaded in 1.63s, 378 queries 
+2024-04-25 18:02:50,990 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module auth_totp_portal (30/40) 
+2024-04-25 18:02:51,269 2240 INFO lannguyen.odoo odoo.modules.registry: module auth_totp_portal: creating or updating database tables 
+2024-04-25 18:02:51,322 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp_portal/security/security.xml 
+2024-04-25 18:02:51,781 2240 INFO lannguyen.odoo odoo.modules.loading: loading auth_totp_portal/views/templates.xml 
+2024-04-25 18:02:51,812 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp_portal: loading demo 
+2024-04-25 18:02:51,843 2240 INFO lannguyen.odoo odoo.modules.loading: Module auth_totp_portal loaded in 0.85s, 78 queries 
+2024-04-25 18:02:51,843 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module digest (31/40) 
+2024-04-25 18:02:52,036 2240 INFO lannguyen.odoo odoo.modules.registry: module digest: creating or updating database tables 
+2024-04-25 18:02:52,316 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/security/ir.model.access.csv 
+2024-04-25 18:02:52,357 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/data/digest_data.xml 
+2024-04-25 18:02:52,531 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/data/digest_tips_data.xml 
+2024-04-25 18:02:52,605 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/data/ir_cron_data.xml 
+2024-04-25 18:02:52,647 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/data/res_config_settings_data.xml 
+2024-04-25 18:02:52,679 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/views/digest_views.xml 
+2024-04-25 18:02:52,854 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/views/digest_templates.xml 
+2024-04-25 18:02:52,869 2240 INFO lannguyen.odoo odoo.modules.loading: loading digest/views/res_config_settings_views.xml 
+2024-04-25 18:02:52,913 2240 INFO lannguyen.odoo odoo.modules.loading: Module digest: loading demo 
+2024-04-25 18:02:52,969 2240 INFO lannguyen.odoo odoo.modules.loading: Module digest loaded in 1.13s, 310 queries 
+2024-04-25 18:02:52,969 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module account (32/40) 
+2024-04-25 18:02:53,842 2240 INFO lannguyen.odoo odoo.modules.registry: module account: creating or updating database tables 
+2024-04-25 18:02:56,361 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.company.invoice_terms_html 
+2024-04-25 18:02:56,361 2240 INFO lannguyen.odoo odoo.models: Storing computed values of res.company.account_fiscal_country_id 
+2024-04-25 18:02:59,978 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/security/account_security.xml 
+2024-04-25 18:03:00,806 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/security/ir.model.access.csv 
+2024-04-25 18:03:01,019 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/data_account_type.xml 
+2024-04-25 18:03:01,156 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/account_data.xml 
+2024-04-25 18:03:01,288 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/digest_data.xml 
+2024-04-25 18:03:01,312 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_report.xml 
+2024-04-25 18:03:01,375 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/mail_template_data.xml 
+2024-04-25 18:03:01,405 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_payment_view.xml 
+2024-04-25 18:03:01,629 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_automatic_entry_wizard_views.xml 
+2024-04-25 18:03:01,663 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_unreconcile_view.xml 
+2024-04-25 18:03:01,699 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_move_reversal_view.xml 
+2024-04-25 18:03:01,731 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_resequence_views.xml 
+2024-04-25 18:03:01,763 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_payment_register_views.xml 
+2024-04-25 18:03:01,824 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_move_views.xml 
+2024-04-25 18:03:02,589 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/setup_wizards_view.xml 
+2024-04-25 18:03:02,621 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/pos_box.xml 
+2024-04-25 18:03:02,635 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_account_type_views.xml 
+2024-04-25 18:03:02,663 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_account_views.xml 
+2024-04-25 18:03:02,786 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_group_views.xml 
+2024-04-25 18:03:02,815 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_journal_views.xml 
+2024-04-25 18:03:02,959 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_account_tag_views.xml 
+2024-04-25 18:03:02,986 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_bank_statement_views.xml 
+2024-04-25 18:03:03,169 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_reconcile_model_views.xml 
+2024-04-25 18:03:03,284 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_tax_views.xml 
+2024-04-25 18:03:03,479 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_full_reconcile_views.xml 
+2024-04-25 18:03:03,498 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_payment_term_views.xml 
+2024-04-25 18:03:03,586 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_chart_template_views.xml 
+2024-04-25 18:03:03,763 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/res_partner_bank_views.xml 
+2024-04-25 18:03:03,798 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/report_statement.xml 
+2024-04-25 18:03:03,861 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/terms_template.xml 
+2024-04-25 18:03:03,901 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_validate_move_view.xml 
+2024-04-25 18:03:03,919 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/res_company_views.xml 
+2024-04-25 18:03:03,966 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/product_view.xml 
+2024-04-25 18:03:04,020 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_analytic_view.xml 
+2024-04-25 18:03:04,121 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/report_invoice.xml 
+2024-04-25 18:03:04,223 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/report/account_invoice_report_view.xml 
+2024-04-25 18:03:04,339 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_cash_rounding_view.xml 
+2024-04-25 18:03:04,385 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_report_common_view.xml 
+2024-04-25 18:03:04,403 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/report_journal.xml 
+2024-04-25 18:03:04,470 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/tax_adjustments.xml 
+2024-04-25 18:03:04,484 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/wizard_tax_adjustments_view.xml 
+2024-04-25 18:03:04,515 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/ir_module_views.xml 
+2024-04-25 18:03:04,543 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/res_config_settings_views.xml 
+2024-04-25 18:03:04,695 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/partner_view.xml 
+2024-04-25 18:03:04,903 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_journal_dashboard_view.xml 
+2024-04-25 18:03:04,990 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_portal_templates.xml 
+2024-04-25 18:03:05,110 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/report_payment_receipt_templates.xml 
+2024-04-25 18:03:05,190 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_onboarding_templates.xml 
+2024-04-25 18:03:05,303 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/service_cron.xml 
+2024-04-25 18:03:05,320 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_incoterms_view.xml 
+2024-04-25 18:03:05,361 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/data/account_incoterms_data.xml 
+2024-04-25 18:03:05,408 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/digest_views.xml 
+2024-04-25 18:03:05,419 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_invoice_send_views.xml 
+2024-04-25 18:03:05,507 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_tax_report_views.xml 
+2024-04-25 18:03:05,575 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/report/account_hash_integrity_templates.xml 
+2024-04-25 18:03:05,642 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/res_currency.xml 
+2024-04-25 18:03:05,670 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_menuitem.xml 
+2024-04-25 18:03:06,269 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/account_analytic_default_view.xml 
+2024-04-25 18:03:06,391 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/account_tour_upload_bill.xml 
+2024-04-25 18:03:06,419 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/wizard/accrued_orders.xml 
+2024-04-25 18:03:06,448 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/views/bill_preview_template.xml 
+2024-04-25 18:03:06,519 2240 INFO lannguyen.odoo odoo.modules.loading: Module account: loading demo 
+2024-04-25 18:03:06,532 2240 INFO lannguyen.odoo odoo.modules.loading: loading account/demo/account_demo.xml 
+2024-04-25 18:03:07,093 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_install on ['VAT Number Validation', 'Vietnam - Accounting'] to user __system__ #1 via 127.0.0.1 
+2024-04-25 18:03:07,419 2240 INFO lannguyen.odoo odoo.modules.loading: Module account loaded in 14.45s, 6983 queries 
+2024-04-25 18:03:07,419 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module account_edi (33/40) 
+2024-04-25 18:03:07,669 2240 INFO lannguyen.odoo odoo.modules.registry: module account_edi: creating or updating database tables 
+2024-04-25 18:03:08,161 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/security/ir.model.access.csv 
+2024-04-25 18:03:08,200 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/views/account_edi_document_views.xml 
+2024-04-25 18:03:08,219 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/views/account_move_views.xml 
+2024-04-25 18:03:08,370 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/views/account_payment_views.xml 
+2024-04-25 18:03:08,461 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/views/account_journal_views.xml 
+2024-04-25 18:03:08,488 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi/data/cron.xml 
+2024-04-25 18:03:08,510 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi: loading demo 
+2024-04-25 18:03:08,551 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi loaded in 1.13s, 317 queries 
+2024-04-25 18:03:08,551 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module payment (34/40) 
+2024-04-25 18:03:09,238 2240 INFO lannguyen.odoo odoo.modules.registry: module payment: creating or updating database tables 
+2024-04-25 18:03:10,213 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/data/payment_icon_data.xml 
+2024-04-25 18:03:10,662 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/data/payment_acquirer_data.xml 
+2024-04-25 18:03:11,104 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/data/payment_cron.xml 
+2024-04-25 18:03:11,126 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_portal_templates.xml 
+2024-04-25 18:03:11,209 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_templates.xml 
+2024-04-25 18:03:11,375 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/account_invoice_views.xml 
+2024-04-25 18:03:11,415 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/account_journal_views.xml 
+2024-04-25 18:03:11,445 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/account_payment_views.xml 
+2024-04-25 18:03:11,476 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_acquirer_views.xml 
+2024-04-25 18:03:11,634 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_icon_views.xml 
+2024-04-25 18:03:11,696 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_transaction_views.xml 
+2024-04-25 18:03:11,792 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/payment_token_views.xml 
+2024-04-25 18:03:11,875 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/views/res_partner_views.xml 
+2024-04-25 18:03:11,919 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/security/ir.model.access.csv 
+2024-04-25 18:03:12,143 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/security/payment_security.xml 
+2024-04-25 18:03:12,270 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/wizards/account_payment_register_views.xml 
+2024-04-25 18:03:12,301 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/wizards/payment_acquirer_onboarding_templates.xml 
+2024-04-25 18:03:12,344 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/wizards/payment_link_wizard_views.xml 
+2024-04-25 18:03:12,376 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment/wizards/payment_refund_wizard_views.xml 
+2024-04-25 18:03:12,403 2240 INFO lannguyen.odoo odoo.modules.loading: Module payment: loading demo 
+2024-04-25 18:03:12,446 2240 INFO lannguyen.odoo odoo.modules.loading: Module payment loaded in 3.89s, 1092 queries 
+2024-04-25 18:03:12,446 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module snailmail_account (35/40) 
+2024-04-25 18:03:12,814 2240 INFO lannguyen.odoo odoo.modules.registry: module snailmail_account: creating or updating database tables 
+2024-04-25 18:03:13,146 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail_account/views/res_config_settings_views.xml 
+2024-04-25 18:03:13,202 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail_account/wizard/account_invoice_send_views.xml 
+2024-04-25 18:03:13,225 2240 INFO lannguyen.odoo odoo.modules.loading: loading snailmail_account/security/ir.model.access.csv 
+2024-04-25 18:03:13,244 2240 INFO lannguyen.odoo odoo.modules.loading: Module snailmail_account: loading demo 
+2024-04-25 18:03:13,265 2240 INFO lannguyen.odoo odoo.modules.loading: Module snailmail_account loaded in 0.82s, 125 queries 
+2024-04-25 18:03:13,265 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module account_edi_facturx (36/40) 
+2024-04-25 18:03:13,485 2240 INFO lannguyen.odoo odoo.modules.registry: module account_edi_facturx: creating or updating database tables 
+2024-04-25 18:03:13,539 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_facturx/data/account_edi_data.xml 
+2024-04-25 18:03:13,656 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_facturx/data/facturx_templates.xml 
+2024-04-25 18:03:13,844 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi_facturx: loading demo 
+2024-04-25 18:03:13,844 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_install on ['Import/Export electronic invoices with UBL/CII'] to user __system__ #1 via 127.0.0.1 
+2024-04-25 18:03:13,904 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi_facturx loaded in 0.64s, 98 queries 
+2024-04-25 18:03:13,904 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module payment_transfer (37/40) 
+2024-04-25 18:03:14,268 2240 INFO lannguyen.odoo odoo.modules.registry: module payment_transfer: creating or updating database tables 
+2024-04-25 18:03:14,515 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment_transfer/views/payment_views.xml 
+2024-04-25 18:03:14,546 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment_transfer/views/payment_transfer_templates.xml 
+2024-04-25 18:03:14,569 2240 INFO lannguyen.odoo odoo.modules.loading: loading payment_transfer/data/payment_acquirer_data.xml 
+2024-04-25 18:03:14,612 2240 INFO lannguyen.odoo odoo.modules.loading: Module payment_transfer: loading demo 
+2024-04-25 18:03:14,641 2240 INFO lannguyen.odoo odoo.modules.loading: Module payment_transfer loaded in 0.74s, 109 queries 
+2024-04-25 18:03:14,641 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module sale (38/40) 
+2024-04-25 18:03:15,409 2240 INFO lannguyen.odoo odoo.modules.registry: module sale: creating or updating database tables 
+2024-04-25 18:03:16,921 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/security/sale_security.xml 
+2024-04-25 18:03:17,473 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/security/ir.model.access.csv 
+2024-04-25 18:03:17,639 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/report/sale_report.xml 
+2024-04-25 18:03:17,662 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/report/sale_report_views.xml 
+2024-04-25 18:03:17,707 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/report/sale_report_templates.xml 
+2024-04-25 18:03:17,769 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/report/invoice_report_templates.xml 
+2024-04-25 18:03:17,800 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/report/report_all_channels_sales_views.xml 
+2024-04-25 18:03:17,812 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/ir_sequence_data.xml 
+2024-04-25 18:03:17,821 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/mail_data_various.xml 
+2024-04-25 18:03:17,884 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/mail_template_data.xml 
+2024-04-25 18:03:17,944 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/mail_templates.xml 
+2024-04-25 18:03:17,970 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/sale_data.xml 
+2024-04-25 18:03:17,999 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/wizard/sale_make_invoice_advance_views.xml 
+2024-04-25 18:03:18,021 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/sale_views.xml 
+2024-04-25 18:03:18,813 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/crm_team_views.xml 
+2024-04-25 18:03:18,941 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/res_partner_views.xml 
+2024-04-25 18:03:19,023 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/mail_activity_views.xml 
+2024-04-25 18:03:19,051 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/variant_templates.xml 
+2024-04-25 18:03:19,126 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/sale_portal_templates.xml 
+2024-04-25 18:03:19,310 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/sale_onboarding_views.xml 
+2024-04-25 18:03:19,370 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/res_config_settings_views.xml 
+2024-04-25 18:03:19,481 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/payment_templates.xml 
+2024-04-25 18:03:19,528 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/payment_views.xml 
+2024-04-25 18:03:19,564 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/product_views.xml 
+2024-04-25 18:03:19,580 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/product_packaging_views.xml 
+2024-04-25 18:03:19,624 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/views/utm_campaign_views.xml 
+2024-04-25 18:03:19,651 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/wizard/sale_order_cancel_views.xml 
+2024-04-25 18:03:19,662 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/wizard/sale_payment_link_views.xml 
+2024-04-25 18:03:19,678 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale: loading demo 
+2024-04-25 18:03:19,678 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/product_product_demo.xml 
+2024-04-25 18:03:20,060 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale/data/sale_demo.xml 
+2024-04-25 18:03:23,329 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.message records with IDs: [51] 
+2024-04-25 18:03:23,373 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted product.product records with IDs: [15] 
+2024-04-25 18:03:23,385 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.followers records with IDs: [42] 
+2024-04-25 18:03:23,563 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:23,563 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 1 and Message-Id '<755754531050202.1714068203.511294603347778-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:23,578 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [1] 
+2024-04-25 18:03:23,578 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:23,647 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:23,647 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 2 and Message-Id '<579483251267657.1714068203.620127439498901-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:23,662 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [2] 
+2024-04-25 18:03:23,662 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:23,746 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:23,746 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 3 and Message-Id '<781336595282621.1714068203.713184356689453-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:23,762 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [3] 
+2024-04-25 18:03:23,762 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:23,864 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:23,865 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 4 and Message-Id '<027939078206516.1714068203.822977542877197-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:23,880 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [4] 
+2024-04-25 18:03:23,880 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:23,950 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:23,951 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 5 and Message-Id '<542836838806318.1714068203.898958921432495-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:23,973 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [5] 
+2024-04-25 18:03:23,974 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:24,052 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:24,052 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 6 and Message-Id '<212984873679119.1714068204.015254020690918-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:24,063 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [6] 
+2024-04-25 18:03:24,063 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:24,139 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:24,139 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 7 and Message-Id '<168646255466301.1714068204.095305681228638-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:24,162 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [7] 
+2024-04-25 18:03:24,162 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:24,261 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:24,261 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 8 and Message-Id '<608545350903714.1714068204.219130277633667-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:24,289 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [8] 
+2024-04-25 18:03:24,290 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:30,629 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale loaded in 15.99s, 5033 queries (+3 other) 
+2024-04-25 18:03:30,630 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module sale_management (39/40) 
+2024-04-25 18:03:31,042 2240 INFO lannguyen.odoo odoo.modules.registry: module sale_management: creating or updating database tables 
+2024-04-25 18:03:31,678 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/security/sale_management_security.xml 
+2024-04-25 18:03:31,713 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/data/digest_data.xml 
+2024-04-25 18:03:31,729 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/sale_portal_templates.xml 
+2024-04-25 18:03:31,807 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/sale_order_template_views.xml 
+2024-04-25 18:03:31,911 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/security/ir.model.access.csv 
+2024-04-25 18:03:31,957 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/res_config_settings_views.xml 
+2024-04-25 18:03:32,013 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/data/digest_data.xml 
+2024-04-25 18:03:32,036 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/sale_management_views.xml 
+2024-04-25 18:03:32,144 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/digest_views.xml 
+2024-04-25 18:03:32,161 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/views/sale_order_views.xml 
+2024-04-25 18:03:32,297 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/report/sale_report_templates.xml 
+2024-04-25 18:03:32,313 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale_management: loading demo 
+2024-04-25 18:03:32,313 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_management/data/sale_order_template_demo.xml 
+2024-04-25 18:03:32,475 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale_management loaded in 1.85s, 627 queries 
+2024-04-25 18:03:32,475 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module sale_sms (40/40) 
+2024-04-25 18:03:32,892 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_sms/security/ir.model.access.csv 
+2024-04-25 18:03:32,979 2240 INFO lannguyen.odoo odoo.modules.loading: loading sale_sms/security/security.xml 
+2024-04-25 18:03:33,078 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale_sms: loading demo 
+2024-04-25 18:03:33,112 2240 INFO lannguyen.odoo odoo.modules.loading: Module sale_sms loaded in 0.64s, 46 queries 
+2024-04-25 18:03:33,112 2240 INFO lannguyen.odoo odoo.modules.loading: 40 modules loaded in 77.90s, 27140 queries (+3 extra) 
+2024-04-25 18:03:33,117 2240 INFO lannguyen.odoo odoo.modules.loading: loading 46 modules... 
+2024-04-25 18:03:33,117 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module base_iban (34/46) 
+2024-04-25 18:03:33,347 2240 INFO lannguyen.odoo odoo.modules.registry: module base_iban: creating or updating database tables 
+2024-04-25 18:03:33,392 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_iban/views/partner_view.xml 
+2024-04-25 18:03:33,563 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_iban/views/setup_wizards_view.xml 
+2024-04-25 18:03:33,584 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_iban: loading demo 
+2024-04-25 18:03:33,584 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_iban/data/res_partner_bank_demo.xml 
+2024-04-25 18:03:33,647 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_iban loaded in 0.53s, 93 queries 
+2024-04-25 18:03:33,647 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module base_vat (35/46) 
+2024-04-25 18:03:33,943 2240 INFO lannguyen.odoo odoo.modules.registry: module base_vat: creating or updating database tables 
+2024-04-25 18:03:34,229 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_vat/views/res_company_views.xml 
+2024-04-25 18:03:34,284 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_vat/views/res_partner_views.xml 
+2024-04-25 18:03:34,350 2240 INFO lannguyen.odoo odoo.modules.loading: loading base_vat/views/res_config_settings_views.xml 
+2024-04-25 18:03:34,395 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_vat: loading demo 
+2024-04-25 18:03:34,427 2240 INFO lannguyen.odoo odoo.modules.loading: Module base_vat loaded in 0.78s, 144 queries 
+2024-04-25 18:03:34,427 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module l10n_multilang (36/46) 
+2024-04-25 18:03:34,811 2240 INFO lannguyen.odoo odoo.modules.registry: module l10n_multilang: creating or updating database tables 
+2024-04-25 18:03:35,221 2240 INFO lannguyen.odoo odoo.modules.loading: Module l10n_multilang: loading demo 
+2024-04-25 18:03:35,229 2240 INFO lannguyen.odoo odoo.modules.loading: Module l10n_multilang loaded in 0.80s, 157 queries 
+2024-04-25 18:03:35,229 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module account_edi_ubl_cii (40/46) 
+2024-04-25 18:03:36,641 2240 INFO lannguyen.odoo odoo.modules.registry: module account_edi_ubl_cii: creating or updating database tables 
+2024-04-25 18:03:36,868 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_ubl_cii/data/account_edi_data.xml 
+2024-04-25 18:03:36,903 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_ubl_cii/data/cii_22_templates.xml 
+2024-04-25 18:03:37,093 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_ubl_cii/data/ubl_20_templates.xml 
+2024-04-25 18:03:37,238 2240 INFO lannguyen.odoo odoo.modules.loading: loading account_edi_ubl_cii/data/ubl_21_templates.xml 
+2024-04-25 18:03:37,275 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi_ubl_cii: loading demo 
+2024-04-25 18:03:37,307 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_edi_ubl_cii loaded in 2.08s, 169 queries 
+2024-04-25 18:03:37,307 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module account_qr_code_sepa (41/46) 
+2024-04-25 18:03:37,593 2240 INFO lannguyen.odoo odoo.modules.registry: module account_qr_code_sepa: creating or updating database tables 
+2024-04-25 18:03:37,704 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_qr_code_sepa: loading demo 
+2024-04-25 18:03:37,818 2240 INFO lannguyen.odoo odoo.modules.loading: Module account_qr_code_sepa loaded in 0.51s, 39 queries 
+2024-04-25 18:03:37,818 2240 INFO lannguyen.odoo odoo.modules.loading: Loading module l10n_vn (42/46) 
+2024-04-25 18:03:38,062 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/l10n_vn_chart_data.xml 
+2024-04-25 18:03:38,220 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/account.account.template.csv 
+2024-04-25 18:03:39,398 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/l10n_vn_chart_post_data.xml 
+2024-04-25 18:03:39,428 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/account_tax_group_data.xml 
+2024-04-25 18:03:39,463 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/account_tax_report_data.xml 
+2024-04-25 18:03:39,676 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/account_tax_data.xml 
+2024-04-25 18:03:39,828 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/data/account_chart_template_data.xml 
+2024-04-25 18:03:46,255 2240 INFO lannguyen.odoo odoo.modules.loading: Module l10n_vn: loading demo 
+2024-04-25 18:03:46,255 2240 INFO lannguyen.odoo odoo.modules.loading: loading l10n_vn/demo/demo_company.xml 
+2024-04-25 18:03:52,976 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:52,976 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 13 and Message-Id '<415887351951594.1714068232.927295923233032-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:53,052 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [13] 
+2024-04-25 18:03:53,052 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:53,132 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:53,133 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 14 and Message-Id '<330831500215448.1714068233.077197313308716-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:53,148 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [14] 
+2024-04-25 18:03:53,148 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:53,223 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:53,224 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 15 and Message-Id '<632050516389921.1714068233.188791990280151-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:53,231 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [15] 
+2024-04-25 18:03:53,231 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:53,294 2240 INFO lannguyen.odoo odoo.tests: skip sending email in test mode 
+2024-04-25 18:03:53,294 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Mail with ID 16 and Message-Id '<570810797922802.1714068233.261305332183838-openerp-message-notify@DESKTOP-EUSE31K>' successfully sent 
+2024-04-25 18:03:53,310 2240 INFO lannguyen.odoo odoo.models.unlink: User #1 deleted mail.mail records with IDs: [16] 
+2024-04-25 18:03:53,310 2240 INFO lannguyen.odoo odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False 
+2024-04-25 18:03:57,476 2240 INFO lannguyen.odoo odoo.modules.loading: Module l10n_vn loaded in 19.66s, 8809 queries (+2 other) 
+2024-04-25 18:03:57,476 2240 INFO lannguyen.odoo odoo.modules.loading: 46 modules loaded in 24.36s, 9411 queries (+2 extra) 
+2024-04-25 18:03:58,309 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-25 18:03:58,450 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 108.489s 
+2024-04-25 18:03:58,451 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: getting next ir.actions.todo() 
+2024-04-25 18:03:58,458 2240 INFO lannguyen.odoo odoo.modules.registry: Registry changed, signaling through the database 
+2024-04-25 18:03:58,464 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:03:58] "POST /web/dataset/call_button HTTP/1.1" 200 - 38489 53.354 55.945
+2024-04-25 18:03:58,808 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-25 18:04:12,642 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_immediate_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:04:12,643 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: User #2 triggered module installation 
+2024-04-25 18:04:12,646 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:04:12,755 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-25 18:04:12,761 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2024-04-25 18:04:12,792 2240 INFO lannguyen.odoo odoo.modules.loading: updating modules list 
+2024-04-25 18:04:12,808 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 127.0.0.1 
+2024-04-25 18:04:14,623 2240 INFO lannguyen.odoo odoo.modules.loading: loading 46 modules... 
+2024-04-25 18:04:14,658 2240 INFO lannguyen.odoo odoo.modules.loading: 46 modules loaded in 0.03s, 0 queries (+0 extra) 
+2024-04-25 18:04:15,507 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-25 18:04:15,519 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 2.793s 
+2024-04-25 18:04:15,519 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: getting next ir.actions.todo() 
+2024-04-25 18:04:15,527 2240 INFO lannguyen.odoo odoo.modules.registry: Registry changed, signaling through the database 
+2024-04-25 18:04:15,552 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:15] "POST /web/dataset/call_button HTTP/1.1" 200 - 1501 1.879 1.148
+2024-04-25 18:04:15,897 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-25 18:04:29,894 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_immediate_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:04:29,894 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: User #2 triggered module installation 
+2024-04-25 18:04:29,899 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.button_install on ['Sales'] to user lannguyen.41903@gmail.com #2 via 127.0.0.1 
+2024-04-25 18:04:29,973 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-25 18:04:29,988 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2024-04-25 18:04:30,006 2240 INFO lannguyen.odoo odoo.modules.loading: updating modules list 
+2024-04-25 18:04:30,006 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 127.0.0.1 
+2024-04-25 18:04:34,190 2240 INFO lannguyen.odoo odoo.modules.loading: loading 46 modules... 
+2024-04-25 18:04:34,212 2240 INFO lannguyen.odoo odoo.modules.loading: 46 modules loaded in 0.02s, 0 queries (+0 extra) 
+2024-04-25 18:04:35,075 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-25 18:04:35,081 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 5.114s 
+2024-04-25 18:04:35,081 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_module: getting next ir.actions.todo() 
+2024-04-25 18:04:35,087 2240 INFO lannguyen.odoo odoo.modules.registry: Registry changed, signaling through the database 
+2024-04-25 18:04:35,093 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:35] "POST /web/dataset/call_button HTTP/1.1" 200 - 1499 2.372 2.848
+2024-04-25 18:04:35,223 2240 ERROR lannguyen.odoo odoo.sql_db: bad query: DELETE FROM ir_attachment WHERE id IN (188)
+ERROR: could not serialize access due to concurrent delete
+ 
+2024-04-25 18:04:35,223 2240 INFO lannguyen.odoo odoo.service.model: SERIALIZATION_FAILURE, retry 1/5 in 0.4430 sec... 
+2024-04-25 18:04:37,288 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:37] "GET /web HTTP/1.1" 200 - 311 0.367 21.027
+2024-04-25 18:04:39,325 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-25 18:04:43,506 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web HTTP/1.1" 200 - 369 0.682 44.030
+2024-04-25 18:04:43,507 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web HTTP/1.1" 200 - 281 0.435 7.645
+2024-04-25 18:04:43,555 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web/assets/408-6d09135/web.assets_common.min.css HTTP/1.1" 200 - 2 0.005 0.016
+2024-04-25 18:04:43,576 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web/assets/409-16ffee7/web.assets_backend.min.css HTTP/1.1" 200 - 2 0.004 0.038
+2024-04-25 18:04:43,878 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web/webclient/load_menus/4e388df2ce9faf02f7e5c3c151bb4f7d61792df6b6a7769c972b63ac61dbed4d HTTP/1.1" 200 - 1 0.003 0.025
+2024-04-25 18:04:43,905 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:43] "GET /web/assets/413-aa88780/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 2 0.005 0.053
+2024-04-25 18:04:44,010 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "GET /web/webclient/qweb/5a581fd385f228d8831707ca269eb059b4cce8f0cf359e51fb9b5cfb889a7f54?bundle=web.assets_qweb HTTP/1.1" 200 - 2 0.001 0.133
+2024-04-25 18:04:44,114 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "GET /web/assets/411-6d09135/web.assets_common.min.js HTTP/1.1" 200 - 2 0.003 0.271
+2024-04-25 18:04:44,205 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "GET /web/assets/412-16ffee7/web.assets_backend.min.js HTTP/1.1" 200 - 2 0.005 0.357
+2024-04-25 18:04:44,712 2240 INFO lannguyen.odoo odoo.addons.partner_autocomplete.models.res_company: Starting enrich of company YourCompany (1) 
+2024-04-25 18:04:44,835 2240 INFO lannguyen.odoo odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2024-04-25 18:04:44,838 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "POST /web/dataset/call_kw/res.company/iap_enrich_auto HTTP/1.1" 200 - 16 0.014 0.119
+2024-04-25 18:04:44,871 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "POST /web/action/load HTTP/1.1" 200 - 9 0.014 0.027
+2024-04-25 18:04:44,892 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "POST /longpolling/poll HTTP/1.1" 200 - 16 0.044 0.018
+2024-04-25 18:04:44,894 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "POST /web/dataset/call_kw/res.users/systray_get_activities HTTP/1.1" 200 - 16 0.048 0.018
+2024-04-25 18:04:44,920 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:44] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 304 - 22 0.053 0.035
+2024-04-25 18:04:45,012 2240 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2024-04-25 18:04:45,222 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:45] "GET /sale/static/description/icon.png HTTP/1.1" 200 - - - -
+2024-04-25 18:04:47,204 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:47] "POST /mail/init_messaging HTTP/1.1" 200 - 66 0.075 1.854
+2024-04-25 18:04:47,563 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:47] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.013 0.013
+2024-04-25 18:04:47,580 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:47] "POST /mail/inbox/messages HTTP/1.1" 200 - 9 0.022 0.017
+2024-04-25 18:04:47,580 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:47] "POST /mail/load_message_failures HTTP/1.1" 200 - 11 0.022 0.019
+2024-04-25 18:04:47,597 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:04:47] "GET /web/image/mail.channel/1/avatar_128?unique=78ebb668b130d4bdab2c9ffd6c8bad239312119841a864609ac9630827cd53e1c9e523c65bd61ed41b1b6e253e4913b8393c7a604a07a4fad1ef4f156d8df6a0 HTTP/1.1" 200 - 10 0.020 0.020
+2024-04-25 18:05:25,841 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:25] "POST /web/action/load HTTP/1.1" 200 - 28 0.015 0.023
+2024-04-25 18:05:26,248 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:26] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 63 0.064 0.034
+2024-04-25 18:05:26,665 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:26] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 42 0.049 0.034
+2024-04-25 18:05:27,015 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:27] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.000 0.016
+2024-04-25 18:05:31,111 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:31] "POST /web/action/load HTTP/1.1" 200 - 52 0.037 0.024
+2024-04-25 18:05:31,581 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:31] "POST /web/dataset/call_kw/res.config.settings/load_views HTTP/1.1" 200 - 59 0.074 0.074
+2024-04-25 18:05:32,197 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:32] "POST /web/dataset/call_kw/res.config.settings/onchange HTTP/1.1" 200 - 208 0.184 0.097
+2024-04-25 18:05:32,583 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:32] "POST /base_setup/data HTTP/1.1" 200 - 6 0.003 0.016
+2024-04-25 18:05:32,599 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:32] "POST /base_setup/demo_active HTTP/1.1" 200 - 3 0.000 0.016
+2024-04-25 18:05:32,601 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:32] "GET /base_setup/static/src/img/google_play.png HTTP/1.1" 200 - - - -
+2024-04-25 18:05:32,614 2240 INFO lannguyen.odoo odoo.http: <function odoo.addons.web_editor.controllers.main.public_render_template> called ignoring args <kwargs={'context': {'lang': 'en_US', 'tz': 'Asia/Ho_Chi_Minh', 'uid': 2}}> 
+2024-04-25 18:05:32,631 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:32] "GET /base_setup/static/src/img/app_store.png HTTP/1.1" 200 - - - -
+2024-04-25 18:05:35,733 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:35] "POST /longpolling/poll HTTP/1.1" 200 - 10 0.025 50.736
+2024-04-25 18:05:36,162 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:36] "POST /web_editor/public_render_template HTTP/1.1" 200 - 38 0.121 3.458
+2024-04-25 18:05:36,498 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:36] "GET /web/assets/414-a797d3c/web_editor.assets_wysiwyg.min.css HTTP/1.1" 200 - 2 0.015 0.000
+2024-04-25 18:05:36,597 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:36] "GET /web/assets/415-a797d3c/web_editor.assets_wysiwyg.min.js HTTP/1.1" 200 - 2 0.000 0.115
+2024-04-25 18:05:36,947 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:36] "POST /web/dataset/call_kw/res.users/has_group HTTP/1.1" 200 - 1 0.000 0.000
+2024-04-25 18:05:37,281 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:37] "GET /web_editor/static/src/xml/editor.xml HTTP/1.1" 200 - - - -
+2024-04-25 18:05:37,645 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:37] "GET /web/static/fonts/google/Roboto/Roboto-Regular.ttf HTTP/1.1" 200 - - - -
+2024-04-25 18:05:37,698 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:37] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.006 0.009
+2024-04-25 18:05:37,889 2240 INFO ? werkzeug: 127.0.0.1 - - [25/Apr/2024 18:05:37] "GET /base/static/description/settings.png HTTP/1.1" 200 - - - -
+2024-04-25 18:06:26,181 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:26] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.013 50.038
+2024-04-25 18:06:27,730 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:27] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.017 0.000
+2024-04-25 18:06:29,266 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:29] "GET /web?debug=1 HTTP/1.1" 200 - 325 0.302 0.671
+2024-04-25 18:06:29,597 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:29] "GET /web/webclient/load_menus/98b3a0b4ec561851adf5de6fb722a31aec558b0c69f474ba1613430e64cc7fa7 HTTP/1.1" 200 - 1 0.001 0.006
+2024-04-25 18:06:29,875 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:29] "POST /web/dataset/call_kw/res.users/systray_get_activities HTTP/1.1" 200 - 5 0.015 0.016
+2024-04-25 18:06:30,036 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "POST /web/action/load HTTP/1.1" 200 - 8 0.008 0.035
+2024-04-25 18:06:30,041 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 6 0.035 0.013
+2024-04-25 18:06:30,158 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "POST /mail/init_messaging HTTP/1.1" 200 - 38 0.064 0.016
+2024-04-25 18:06:30,510 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.000 0.030
+2024-04-25 18:06:30,510 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "POST /mail/inbox/messages HTTP/1.1" 200 - 4 0.000 0.030
+2024-04-25 18:06:30,522 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:30] "POST /mail/load_message_failures HTTP/1.1" 200 - 10 0.018 0.024
+2024-04-25 18:06:34,606 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:34] "POST /web/action/load HTTP/1.1" 200 - 14 0.011 0.021
+2024-04-25 18:06:34,974 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:34] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 28 0.016 0.033
+2024-04-25 18:06:35,363 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:35] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.040 0.026
+2024-04-25 18:06:35,703 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:06:35] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.007 0.013
+2024-04-25 18:07:16,544 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:07:16] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.020 50.021
+2024-04-25 18:07:20,058 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:07:20] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.024 50.043
+2024-04-25 18:07:21,384 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:07:21] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.004 0.016
+2024-04-25 18:08:10,432 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:08:10] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.014 50.031
+2024-04-25 18:08:12,381 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:08:12] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.000 0.012
+2024-04-25 18:09:00,794 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:09:00] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.030 50.018
+2024-04-25 18:09:03,392 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:09:03] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.005 0.023
+2024-04-25 18:09:51,167 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:09:51] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.006 50.038
+2024-04-25 18:09:54,390 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:09:54] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.009 0.011
+2024-04-25 18:10:41,520 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:10:41] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.007 50.030
+2024-04-25 18:10:45,388 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:10:45] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.000 0.014
+2024-04-25 18:11:31,867 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:11:31] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.020 50.007
+2024-04-25 18:11:36,386 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:11:36] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.009 0.013
+2024-04-25 18:12:22,212 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:12:22] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.018 50.008
+2024-04-25 18:12:27,402 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:12:27] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.011 0.021
+2024-04-25 18:13:12,584 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:13:12] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.024 50.029
+2024-04-25 18:13:18,703 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:13:18] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.007 0.007
+2024-04-25 18:14:02,957 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:14:02] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.015 50.035
+2024-04-25 18:14:09,706 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:14:09] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.011 0.013
+2024-04-25 18:14:53,313 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:14:53] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.017 50.023
+2024-04-25 18:15:00,385 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:15:00] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.006 0.018
+2024-04-25 18:15:43,685 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:15:43] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.000 50.042
+2024-04-25 18:15:51,376 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:15:51] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.000 0.016
+2024-04-25 18:16:34,035 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:16:34] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.009 50.015
+2024-04-25 18:16:42,714 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:16:42] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.000 0.031
+2024-04-25 18:17:24,389 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:17:24] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.009 50.018
+2024-04-25 18:18:14,851 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:18:14] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.065 50.075
+2024-04-25 18:31:33,348 2240 INFO lannguyen.odoo odoo.modules.registry: Invalidating all model caches after database signaling. 
+2024-04-25 18:31:33,750 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [25/Apr/2024 18:31:33] "POST /longpolling/im_status HTTP/1.1" 200 - 2 0.058 2.962
+2024-04-26 01:22:44,206 2240 INFO lannguyen.odoo odoo.modules.registry: Reloading the model registry after database signaling. 
+2024-04-26 01:22:44,381 2240 INFO lannguyen.odoo odoo.modules.registry: Reloading the model registry after database signaling. 
+2024-04-26 01:22:45,411 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-26 01:22:45,801 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 0.38s, 0 queries (+0 extra) 
+2024-04-26 01:22:47,847 2240 INFO lannguyen.odoo odoo.modules.loading: loading 46 modules... 
+2024-04-26 01:22:49,428 2240 INFO lannguyen.odoo odoo.modules.loading: 46 modules loaded in 1.58s, 0 queries (+0 extra) 
+2024-04-26 01:22:51,394 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-26 01:22:51,432 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 7.212s 
+2024-04-26 01:22:51,673 2240 INFO lannguyen.odoo odoo.modules.loading: loading 1 modules... 
+2024-04-26 01:22:51,681 2240 INFO lannguyen.odoo odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2024-04-26 01:22:51,787 2240 INFO lannguyen.odoo odoo.modules.loading: loading 46 modules... 
+2024-04-26 01:22:53,692 2240 INFO lannguyen.odoo odoo.modules.loading: 46 modules loaded in 1.90s, 0 queries (+0 extra) 
+2024-04-26 01:22:54,278 2240 INFO lannguyen.odoo odoo.modules.loading: Modules loaded. 
+2024-04-26 01:22:54,294 2240 INFO lannguyen.odoo odoo.modules.registry: Registry loaded in 9.911s 
+2024-04-26 01:22:54,295 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-26 01:22:54,315 2240 INFO lannguyen.odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-04-26 01:22:54,830 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [26/Apr/2024 01:22:54] "GET /web/webclient/load_menus/b720e57863a558e841ec16051efba482c09008fb06620a3c6d6236c2381a4807 HTTP/1.1" 303 - 17 1.149 14.586
+2024-04-26 01:23:44,899 2240 INFO lannguyen.odoo werkzeug: 127.0.0.1 - - [26/Apr/2024 01:23:44] "POST /longpolling/poll HTTP/1.1" 200 - 21 0.365 63.599
+2024-04-26 10:57:13,245 5596 INFO ? odoo: Odoo version 15.0-20240425 
+2024-04-26 10:57:13,245 5596 INFO ? odoo: Using configuration file at C:\Program Files\Odoo 15.0.20240425\server\odoo.conf 
+2024-04-26 10:57:13,245 5596 INFO ? odoo: addons paths: ['C:\\Program Files\\Odoo 15.0.20240425\\server\\odoo\\addons', 'c:\\users\\admin\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\program files\\odoo 15.0.20240425\\server\\odoo\\addons'] 
+2024-04-26 10:57:13,257 5596 INFO ? odoo: database: lannguyen@localhost:5432 
+2024-04-26 10:57:13,765 5596 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\Odoo 15.0.20240425\thirdparty\wkhtmltopdf.exe 
+2024-04-26 10:57:14,377 5596 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-EUSE31K:8069 
+2024-04-26 10:57:18,451 5596 INFO ? odoo.sql_db: Connection to the database failed 
+2024-04-26 10:57:22,502 5596 INFO ? odoo.sql_db: Connection to the database failed 
